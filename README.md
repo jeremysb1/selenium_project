@@ -1,2 +1,3 @@
-# selenium_project
-browser automation tool
+# Python project with Selenium
+
+I built a browser automation tool.
